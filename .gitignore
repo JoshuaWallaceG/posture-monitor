@@ -12,6 +12,10 @@ cmake_install.cmake
 Makefile
 compile_commands.json
 
+#Unneeded
+.mxproject
+.clangd
+
 # VS Code local config
 .vscode/
 .settings/
