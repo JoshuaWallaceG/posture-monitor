@@ -1,0 +1,39 @@
+# Build output
+build/
+Debug/
+Release/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# VS Code local config
+.vscode/
+.settings/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Compiled / generated binaries
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.su
+*.d
+*.a
+*.so
+*.dll
+*.exe
+
+# Logs
+*.log
