@@ -31,5 +31,5 @@ Build and flash the firmware to the STM32 Nucleo board using STM32CubeIDE.
 ## Built With
 - C
 - STM32 Nucleo-L476RG
-- STM32CubeIDE
 - ST7735 LCD Display
+- STM32CubeIDE/MX
