@@ -1,6 +1,6 @@
 # Posture Correction System
 
-A chair-integrated STM32-based posture monitoring system that visualizes seating pressure distribution in real time and provides active posture correction/feedback.
+A chair-based posture monitor system that detects uneven sitting pressure and alerts you when you start to slouch.
 
 ## Features
 - Measures seating pressure across three sensor locations
