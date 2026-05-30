@@ -1,6 +1,6 @@
-# Posture Correction System
+# Posture Monitor
 
-A chair-based posture monitor system that detects uneven sitting pressure and alerts you when you start to slouch.
+A chair-based posture monitor that detects uneven sitting pressure and alerts you when you start to slouch.
 
 ## Features
 - Measures seating pressure across three sensor locations
