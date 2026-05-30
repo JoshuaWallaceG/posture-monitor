@@ -13,7 +13,7 @@ A chair-integrated STM32-based posture monitoring system that visualizes seating
 
 Final wiring diagram for the STM32, force sensors, and ST7735 display.
 
-## Prototype Photo
+## Photos
 <img width="70%" alt="nochair" src="https://github.com/user-attachments/assets/c03e9527-be26-40aa-9280-924b1816b71f" />
 
 Current hardware prototype before chair installation.
