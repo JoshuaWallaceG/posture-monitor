@@ -14,7 +14,7 @@ A chair-based posture monitor that detects uneven sitting pressure and alerts yo
 Final wiring diagram for the STM32, force sensors, and ST7735 display.
 
 ## Photos
-<img width="70%" alt="prototype" src="https://github.com/user-attachments/assets/16798ed9-0535-42d7-a772-113ad9f9e6d0" />
+<img width="70%" alt="prototype" src="https://github.com/user-attachments/assets/836dc2b6-2633-4d0d-b65d-fa9cf7a70819" />
 
 Current hardware prototype before chair installation.
 
